@@ -1,4 +1,4 @@
-# NotifyIntercept
+# NotifyIntercept通知拦截
 ## 未经开发者授权，禁止私自搬运转发转载  
 ## 忆清鸣、luckyzyx  
 通知拦截的终极解决方案  
